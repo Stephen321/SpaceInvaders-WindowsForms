@@ -1,0 +1,8 @@
+C:\Users\Stephen\Desktop\Space Invaders - Forms\Space Invaders\bin\Release\Space Invaders.exe
+C:\Users\Stephen\Desktop\Space Invaders - Forms\Space Invaders\bin\Release\Space Invaders.pdb
+C:\Users\Stephen\Desktop\Space Invaders - Forms\Space Invaders\obj\x86\Release\Space Invaders.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Desktop\Space Invaders - Forms\Space Invaders\obj\x86\Release\Space_Invaders.Form1.resources
+C:\Users\Stephen\Desktop\Space Invaders - Forms\Space Invaders\obj\x86\Release\Space_Invaders.Properties.Resources.resources
+C:\Users\Stephen\Desktop\Space Invaders - Forms\Space Invaders\obj\x86\Release\Space Invaders.csproj.GenerateResource.Cache
+C:\Users\Stephen\Desktop\Space Invaders - Forms\Space Invaders\obj\x86\Release\Space Invaders.exe
+C:\Users\Stephen\Desktop\Space Invaders - Forms\Space Invaders\obj\x86\Release\Space Invaders.pdb

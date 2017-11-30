@@ -1,0 +1,47 @@
+G:\To Do\Lab6 C00181305\Space Invaders\bin\Debug\Space Invaders.exe
+G:\To Do\Lab6 C00181305\Space Invaders\bin\Debug\Space Invaders.pdb
+G:\To Do\Lab6 C00181305\Space Invaders\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\To Do\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space_Invaders.Form1.resources
+G:\To Do\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space_Invaders.Properties.Resources.resources
+G:\To Do\Lab6 C00181305\Space Invaders\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\To Do\Lab6 C00181305\Space Invaders\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\To Do\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space Invaders.exe
+G:\To Do\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space Invaders.pdb
+H:\To Do\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space Invaders.exe
+H:\To Do\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space Invaders.pdb
+H:\To Do\Lab6 C00181305\Space Invaders\bin\Debug\Space Invaders.exe
+H:\To Do\Lab6 C00181305\Space Invaders\bin\Debug\Space Invaders.pdb
+H:\To Do\Lab6 C00181305\Space Invaders\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\To Do\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space_Invaders.Form1.resources
+H:\To Do\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space_Invaders.Properties.Resources.resources
+H:\To Do\Lab6 C00181305\Space Invaders\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\To Do\Lab6 C00181305\Space Invaders\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space Invaders.exe
+F:\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space Invaders.pdb
+F:\Lab6 C00181305\Space Invaders\bin\Debug\Space Invaders.exe
+F:\Lab6 C00181305\Space Invaders\bin\Debug\Space Invaders.pdb
+F:\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space_Invaders.Form1.resources
+F:\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space_Invaders.Properties.Resources.resources
+F:\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space Invaders.csproj.GenerateResource.Cache
+F:\To Do\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space Invaders.exe
+F:\To Do\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space Invaders.pdb
+F:\To Do\Lab6 C00181305\Space Invaders\bin\Debug\Space Invaders.exe
+F:\To Do\Lab6 C00181305\Space Invaders\bin\Debug\Space Invaders.pdb
+F:\To Do\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space_Invaders.Form1.resources
+F:\To Do\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space_Invaders.Properties.Resources.resources
+F:\To Do\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space Invaders.csproj.GenerateResource.Cache
+G:\Graphics\Labs\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space Invaders.exe
+G:\Graphics\Labs\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space Invaders.pdb
+G:\Graphics\Labs\Lab6 C00181305\Space Invaders\bin\Debug\Space Invaders.exe
+G:\Graphics\Labs\Lab6 C00181305\Space Invaders\bin\Debug\Space Invaders.pdb
+G:\Graphics\Labs\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space_Invaders.Form1.resources
+G:\Graphics\Labs\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space_Invaders.Properties.Resources.resources
+G:\Graphics\Labs\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space Invaders.csproj.GenerateResource.Cache
+C:\Users\Stephen\Desktop\Graphics\Labs\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space Invaders.exe
+C:\Users\Stephen\Desktop\Graphics\Labs\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space Invaders.pdb
+C:\Users\Stephen\Desktop\Graphics\Labs\Lab6 C00181305\Space Invaders\bin\Debug\Space Invaders.exe
+C:\Users\Stephen\Desktop\Graphics\Labs\Lab6 C00181305\Space Invaders\bin\Debug\Space Invaders.pdb
+C:\Users\Stephen\Desktop\Graphics\Labs\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space Invaders.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Desktop\Graphics\Labs\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space_Invaders.Form1.resources
+C:\Users\Stephen\Desktop\Graphics\Labs\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space_Invaders.Properties.Resources.resources
+C:\Users\Stephen\Desktop\Graphics\Labs\Lab6 C00181305\Space Invaders\obj\x86\Debug\Space Invaders.csproj.GenerateResource.Cache
